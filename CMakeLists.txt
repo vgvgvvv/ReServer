@@ -2,7 +2,12 @@ cmake_minimum_required(VERSION 3.10.0)
 
 project(ReServer)
 
+# ¸÷ÖÖdemo
+add_subdirectory(demos)
+
 include_directories(src)
+
+
 
 
 ############### Unit Test Start ###############
